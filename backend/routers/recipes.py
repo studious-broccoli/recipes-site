@@ -48,7 +48,7 @@ def _list_recipes(section: Section) -> list[RecipeSummary]:
     return sorted(summaries, key=lambda r: r.title)
 
 
-@router.get("/", response_model=dict[str, list[RecipeSummary]])
+@router.get("", response_model=dict[str, list[RecipeSummary]])
 def list_all_recipes() -> dict[str, list[RecipeSummary]]:
     """Return all recipes grouped by section.
 
