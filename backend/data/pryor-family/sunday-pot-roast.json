@@ -1,0 +1,32 @@
+{
+  "slug": "sunday-pot-roast",
+  "title": "Sunday Pot Roast",
+  "description": "A tender, slow-cooked pot roast with carrots and potatoes — a Pryor family Sunday tradition.",
+  "servings": 6,
+  "prep_time_minutes": 20,
+  "cook_time_minutes": 240,
+  "ingredients": [
+    "3–4 lb chuck roast",
+    "2 tbsp vegetable oil",
+    "1 large onion, roughly chopped",
+    "4 garlic cloves, smashed",
+    "3 carrots, cut into 2-inch pieces",
+    "1 lb baby potatoes, halved",
+    "2 cups beef broth",
+    "1 cup red wine (or additional broth)",
+    "2 tbsp tomato paste",
+    "1 tsp dried thyme",
+    "1 tsp dried rosemary",
+    "Salt and black pepper to taste"
+  ],
+  "steps": [
+    "Preheat oven to 325°F. Pat roast dry and season generously with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat. Sear roast on all sides until deep brown, about 4 minutes per side. Remove and set aside.",
+    "Reduce heat to medium. Add onion and garlic; cook 3 minutes until softened. Stir in tomato paste and cook 1 minute.",
+    "Pour in wine and broth, scraping up any browned bits from the bottom. Add thyme and rosemary.",
+    "Return roast to the pot. Add carrots and potatoes around the roast. Liquid should come about halfway up the roast.",
+    "Cover and transfer to oven. Braise for 3.5–4 hours, until the meat is fork-tender and falling apart.",
+    "Rest 10 minutes before serving. Taste the braising liquid and season with salt and pepper; serve as the gravy."
+  ],
+  "photo": null
+}

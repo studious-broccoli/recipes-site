@@ -1,0 +1,27 @@
+{
+  "slug": "lemon-pasta",
+  "title": "Lemon Pasta",
+  "description": "A bright, fresh pasta tossed with lemon zest, parmesan, and olive oil. Ready in under 20 minutes.",
+  "servings": 4,
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 12,
+  "ingredients": [
+    "12 oz spaghetti or linguine",
+    "1/4 cup extra-virgin olive oil",
+    "3 garlic cloves, minced",
+    "Zest and juice of 2 lemons",
+    "1 cup freshly grated parmesan",
+    "1/2 tsp red pepper flakes",
+    "Salt and black pepper to taste",
+    "Fresh parsley, chopped, for serving"
+  ],
+  "steps": [
+    "Bring a large pot of salted water to a boil. Cook pasta according to package directions until al dente. Reserve 1 cup of pasta water before draining.",
+    "While pasta cooks, heat olive oil in a large skillet over medium heat. Add garlic and red pepper flakes; cook 1 minute until fragrant.",
+    "Add lemon zest and juice to the skillet and stir to combine.",
+    "Add drained pasta to the skillet along with 1/2 cup of reserved pasta water. Toss to coat.",
+    "Remove from heat and stir in parmesan, adding more pasta water as needed to create a silky sauce.",
+    "Season with salt and pepper. Serve topped with fresh parsley."
+  ],
+  "photo": null
+}
