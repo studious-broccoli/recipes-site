@@ -16,7 +16,7 @@ pip install -r "$ROOT/backend/requirements.txt" --quiet
 
 echo "==> Starting backend (http://localhost:8000)..."
 cd "$ROOT/backend"
-uvicorn main:app --reload &
+python -m uvicorn main:app --reload &
 BACKEND_PID=$!
 
 echo "==> Installing Node dependencies..."
