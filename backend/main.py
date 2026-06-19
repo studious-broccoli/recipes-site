@@ -20,7 +20,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+app.include_router(recipes_router)
+
 PHOTOS_DIR = Path(__file__).parent / "photos"
 app.mount("/photos", StaticFiles(directory=str(PHOTOS_DIR)), name="photos")
-
-app.include_router(recipes_router)
